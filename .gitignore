@@ -1,0 +1,16 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Réglages locaux des IDE
+.vscode/
+.idea/
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*~
+
+# Dépendances éventuelles
+node_modules/
